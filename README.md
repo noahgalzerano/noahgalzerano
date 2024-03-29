@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahgalzerano
 - 👀 I’m interested in pursuing a career in the cybersecurity domain, with a focus in penetration testing.
-- 🌱 I’m currently learning C++ and working on my skills with Python.
+- 🌱 I’m currently learning C++ and working to brush up on my skills with Python.
 - 😄 Pronouns: he/him
 
 <!---
